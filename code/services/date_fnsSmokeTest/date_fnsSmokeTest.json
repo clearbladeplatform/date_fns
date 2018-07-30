@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,date_fns",
+    "logging_enabled": "false",
+    "name": "date_fnsSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "date_fnsSmokeTest.js"
+}
